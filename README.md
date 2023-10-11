@@ -1,2 +1,2 @@
 # metro.js
-metro.js - easy CSS
+Write easier CSS with metro.js.
